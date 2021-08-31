@@ -10,9 +10,9 @@ public class Sort_Two_Numbers {
         int a = s.nextInt();
         int b = s.nextInt();
 
-        if(a<=b){
+        if (a <= b) {
             System.out.println(a + " " + b);
-        } else{
+        } else {
             System.out.println(b + " " + a);
         }
 
